@@ -3,25 +3,25 @@ title: Facilitator script
 description: "What to say at each slide, the questions to ask, and how to handle the moments that come up in a scam awareness session."
 ---
 
-Slide numbers match [slides.md](slides.md). The words in quotes are a guide, not a script to read aloud. Say them your way.
+Slide numbers match [slides.md](slides.md). Say the quoted words your way.
 
-**Tone throughout:** respectful and plain. Many people in the room have spotted more scams than you have. Ask for their stories and thank them for sharing.
+**Tone:** respectful and plain. Many people in the room have spotted more scams than you. Ask for their stories and thank them.
 
 ## Welcome (slides 1 to 3, 5 minutes)
 
 **Slide 2.** Ask for the show of hands, then the follow-up. Most hands stay up. "You're not alone, and you're not a target because you did something wrong. These messages go to everyone."
 
-Invite one or two short stories. If someone shares that they lost money, thank them and say how common it is. Then move on, so it doesn't become the focus.
+Invite one or two short stories. If someone lost money, thank them, say how common it is, and move on.
 
 **Slide 3.** "By the end of the hour, everyone here will have two-step sign-in turned on for their email. Make sure your phone is nearby."
 
 ## The four pressures (slides 4 to 6, 7 minutes)
 
-**Slide 4.** "Scams are built to catch people at a busy or worried moment. The people behind them do this all day, often in organized groups, with scripts."
+**Slide 4.** "Scams are built to catch people at a busy or worried moment. The people behind them do this all day, with scripts."
 
 **Slide 5.** Go through each pressure and ask the room for an example they've heard. Write them on a board if you have one.
 
-**Slide 6.** This is the idea to repeat all session. "If you notice one of these, slow down. If you notice two, stop and check, every time."
+**Slide 6.** Repeat this all session. "If you notice one of these, slow down. If you notice two, stop and check, every time."
 
 ## The scams people see (slides 7 to 11, 10 minutes)
 
@@ -39,7 +39,7 @@ Pick the stories that fit your group. The [audiences](../audiences/index.md) pag
 
 ## Spot the scam (slide 12, 10 minutes)
 
-Hand out the [card sets](../exercises/spot-the-scam.md). Walk between tables. When time's up, go through four or five cards with the whole room, asking a different table each time. Praise the reasoning more than the right answers. "Can't tell yet" is a great answer when it comes with a way to check.
+Hand out the [card sets](../exercises/spot-the-scam.md) and walk between tables. When time's up, go through four or five cards with the room, asking a different table each time. Praise the reasoning more than the right answers. "Can't tell yet" is a good answer when it comes with a way to check.
 
 ## The pause (slides 13 to 14, 8 minutes)
 
@@ -57,9 +57,9 @@ Mention password managers briefly: "A password manager remembers a different str
 
 ## Two-step sign-in lab (slide 17, 10 minutes)
 
-Follow the [lab guide](../exercises/two-step-lab.md). Walk the room. Pair people who finish quickly with people who are stuck. If someone can't do it today (forgotten password, no phone), write down their name and offer a follow-up, rather than leaving them feeling behind.
+Follow the [lab guide](../exercises/two-step-lab.md). Walk the room and pair quick finishers with people who are stuck. If someone can't do it today (forgotten password, no phone), note their name and offer a follow-up.
 
-Count hands at the end and say the number out loud.
+Count hands at the end and say the number.
 
 ## Who to tell, and the takeaway (slides 18 to 20, 5 minutes)
 

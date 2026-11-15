@@ -6,8 +6,8 @@ description: "Adapting the session for high school and college students: job and
 ## Pace and setup
 
 - 45 to 50 minutes, to fit a class period.
-- Use phones as part of the session: students can check their own settings in the lab.
-- For high school groups, tell the school counselor about the session in advance and invite them, especially if you cover sextortion.
+- Students use their phones to check their own settings in the lab.
+- For high school groups, invite the school counselor in advance, especially if you cover sextortion.
 
 ## Which scams to show
 
@@ -22,7 +22,7 @@ description: "Adapting the session for high school and college students: job and
 
 ## Lab twist
 
-Have students check their most-used app's security settings as well as email: two-step sign-in, active sessions, and linked devices.
+Have students also check their most-used app: two-step sign-in, active sessions, and linked devices.
 
 ## Sources
 

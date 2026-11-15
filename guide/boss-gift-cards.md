@@ -19,7 +19,7 @@ Call or walk over to the person and ask, using a number you already had. Report 
 
 ## If it already happened
 
-Call the gift card company right away, using the number on the card. Tell them the cards were used in a scam and ask for your money back. Keep the cards and receipts. Tell your manager and IT, and report it at **ReportFraud.ftc.gov**.
+Call the gift card company right away, using the number on the card. Say the cards were used in a scam and ask for your money back. Keep the cards and receipts. Tell your manager and IT, and report it at **ReportFraud.ftc.gov**.
 
 ## Sources
 

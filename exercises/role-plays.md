@@ -3,9 +3,9 @@ title: Role-plays
 description: "Three short scripts for practicing the pause: a bank fraud call, a supplier bank change, and a grandparent emergency."
 ---
 
-**Time:** 5 to 10 minutes. **How:** the facilitator plays the scammer at first. Once the group has seen it, pairs can try it at their tables. The only goal for the person being called is to end the call politely and say how they'd call back on a number they found themselves.
+**Time:** 5 to 10 minutes. **How:** the facilitator plays the scammer first, then pairs try it at their tables. The person being called ends the call politely and says how they'd call back on a number they found themselves.
 
-Push a little, but stay kind. Stop as soon as the person hangs up, and cheer.
+Push a little, but stay kind. Stop when the person hangs up, and cheer.
 
 ## 1. The bank fraud call
 
@@ -19,7 +19,7 @@ Push a little, but stay kind. Stop as soon as the person hangs up, and cheer.
 
 **What we want to hear:** "I'll call the bank myself on the number on my card." Then hang up.
 
-**Debrief:** the caller created fear (a theft), hurry (minutes), and then asked for a code. The code was the whole goal. A real bank can stop a transfer without one.
+**Debrief:** the caller created fear (a theft) and hurry (minutes), then asked for a code. The code was the goal. A real bank can stop a transfer without one.
 
 ## 2. The supplier bank change (workplace)
 
@@ -29,7 +29,7 @@ Push a little, but stay kind. Stop as soon as the person hangs up, and cheer.
 
 **What we want to hear:** "I'll call you back on the number we have on file for Riverside to confirm." Then hang up and look it up.
 
-**Debrief:** the email and the call came together to seem more real. The rule holds anyway: any change to where money goes gets a callback to a number you already had.
+**Debrief:** the email and call together seem more real. The rule still holds: any change to where money goes gets a callback to a number you already had.
 
 ## 3. The grandparent emergency
 
@@ -39,11 +39,11 @@ Push a little, but stay kind. Stop as soon as the person hangs up, and cheer.
 
 **What we want to hear:** "I love you. I'm going to call you right back on your phone," or asking for the family code word. Then hang up and call the grandchild, or another family member, on the number they already have.
 
-**Debrief:** this one works on love for someone else. Secrecy ("don't tell Mom") is the biggest tell. Voices can be faked from short clips online. A family code word, agreed in person, settles it in seconds. See [family code word](family-code-word.md).
+**Debrief:** this one works on love for someone else. Secrecy ("don't tell Mom") is the biggest tell. Voices can be faked from short online clips. A family code word, agreed in person, settles it. See [family code word](family-code-word.md).
 
 ## Making your own
 
-Use a scam your group has seen. Write three lines: the opening, the request, and the push. Keep the goal the same: hang up, look up, call back.
+Use a scam your group has seen. Write three lines: the opening, the request, and the push. The goal stays the same: hang up, look up, call back.
 
 ## Sources
 

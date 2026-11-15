@@ -5,9 +5,9 @@ description: "A screen warning that your computer is infected, or a call from 'M
 
 ## What it looks like
 
-A loud warning fills your browser: "Your computer is infected! Do not close this window. Call Microsoft Support at [number]." Sometimes it beeps or a voice speaks. Or someone calls saying they're from a tech company and have detected a problem on your computer.
+A loud warning fills your browser: "Your computer is infected! Do not close this window. Call Microsoft Support at [number]." Or someone calls saying they're from a tech company and have found a problem on your computer.
 
-The "technician" asks you to install a remote access app, shows you scary-looking screens, then asks for payment, often in gift cards or by "refunding" an amount they claim they overpaid.
+The "technician" asks you to install a remote access app, shows you scary screens, then asks for payment, often in gift cards or by "refunding" an amount they claim they overpaid.
 
 ## The tell
 

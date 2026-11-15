@@ -5,7 +5,7 @@ description: "An email from a supplier, contractor, or client, sometimes from th
 
 ## What it looks like
 
-"Please note we've changed banks. Use the attached details for this invoice and all future payments." It may come from a supplier's real email account that's been hacked, or from an address one letter off. It often arrives mid-conversation, right when a payment is due. The same trick hits home buyers ("updated wiring instructions" for a closing) and payroll ("please send my direct deposit to my new account").
+"Please note we've changed banks. Use the attached details for this invoice and all future payments." It may come from a supplier's hacked email account, or from an address one letter off, often right when a payment is due. The same trick hits home buyers ("updated wiring instructions" for a closing) and payroll ("please send my direct deposit to my new account").
 
 ## The tell
 
@@ -13,7 +13,7 @@ description: "An email from a supplier, contractor, or client, sometimes from th
 
 ## What to do
 
-Call the supplier on a number you already had on file, not one in the email, and confirm the change with someone you know. Make this a rule with no exceptions, including for the boss and the biggest customer. For home purchases, call your title company or lawyer on a number from your original paperwork before wiring.
+Call the supplier on a number you already had on file, not one in the email, and confirm the change with someone you know. Make this a rule with no exceptions, including the boss and the biggest customer. For home purchases, call your title company or lawyer on a number from your original paperwork before wiring.
 
 ## If it already happened
 

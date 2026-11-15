@@ -1,7 +1,5 @@
 # Contributing
 
-Scams change every month, so fresh examples and corrections help most.
-
 ## What helps most
 
 - New scam examples you or your group received, with every name, number, and link removed or replaced.
@@ -11,7 +9,7 @@ Scams change every month, so fresh examples and corrections help most.
 
 ## How to write here
 
-- **Respect the room.** Scams are run by organized groups working from scripts, and they catch careful people.
+- **Respect the room.** Scams catch careful people.
 - **No fear selling.** Say what the risk is and how likely it is.
 - **Every lesson ends in an action** someone can do that day.
 - **Never include a working scam link or phone number** in an example. Use `example.com` addresses and 555 numbers.

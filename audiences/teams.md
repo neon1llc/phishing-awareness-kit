@@ -5,9 +5,9 @@ description: "Adapting the session for an office or team: money attacks, account
 
 ## Pace and setup
 
-- 60 minutes works well. Hold it during work hours so everyone comes, including leadership.
-- Before the session, ask IT or the office manager for real phishing messages the company received, with names removed, and how staff report a suspicious message.
-- Ask the most senior person present to say, at the start, that reporting is always welcome, even after a mistake.
+- Hold it for 60 minutes during work hours so everyone comes, including leadership.
+- Ask IT or the office manager for real phishing messages the company received, with names removed, and how staff report them.
+- Ask the most senior person present to say at the start that reporting is welcome, even after a mistake.
 
 ## Which scams to show
 
@@ -15,7 +15,7 @@ Slides 7 (texts), 8 (calls and codes), and 10 (invoices), plus [boss and gift ca
 
 ## What to emphasize
 
-- **The callback rule for money.** Any change to bank details, any urgent payment request, any gift card request gets a call to a number already on file. Have the finance lead say it out loud.
+- **The callback rule for money.** Any bank detail change, urgent payment request, or gift card request gets a call to a number already on file. Have the finance lead say it out loud.
 - **Reporting in under 30 seconds.** Show the report button or the address live on screen.
 - **No blame.** A fast report after a click limits the damage. A hidden one makes it worse.
 - **Two-step sign-in on work and personal email.** Many workplace breaches start with a personal account.
@@ -26,7 +26,7 @@ Run the [supplier bank change](../exercises/role-plays.md#2-the-supplier-bank-ch
 
 ## For companies with compliance needs
 
-A session from this kit can be part of yearly security awareness training. Whether it meets a specific requirement is for whoever sets that requirement, such as an auditor, insurer, or client, to decide. Record attendance and the date, and keep the slides and quiz results as evidence. [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness) covers what auditors look for.
+A session from this kit can be part of yearly security awareness training. Whoever sets the requirement, such as an auditor, insurer, or client, decides whether it meets it. Record attendance and the date, and keep the slides and quiz results. [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness) covers what auditors look for.
 
 ## Sources
 

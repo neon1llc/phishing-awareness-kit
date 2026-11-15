@@ -15,7 +15,7 @@ Variations: "This is Apple support, someone's trying to get into your iCloud," o
 
 ## What to do
 
-Hang up. Call the number on the back of your card, or open the company's official app. If there's a problem, they'll tell you. Never read a code to anyone, ever.
+Hang up. Call the number on the back of your card, or open the company's official app. If there's a problem, they'll tell you. Never read a code to anyone.
 
 ## If it already happened
 

@@ -3,19 +3,19 @@ title: Two-step sign-in lab
 description: "A guided hands-on activity: everyone in the room turns on two-step sign-in for their email and checks their recovery details."
 ---
 
-**Time:** 10 to 15 minutes. **Goal:** every participant has two-step sign-in on for their main email before they leave, and their recovery phone and email are current.
+**Time:** 10 to 15 minutes. **Goal:** everyone leaves with two-step sign-in on for their main email and current recovery details.
 
 ## Before the session
 
-- Tell people in the invitation to bring their phone and know their email password, or have their password manager with them.
+- Tell people in the invitation to bring their phone and know their email password, or have their password manager.
 - Check the room's Wi-Fi works for guests, and put the details on a slide.
-- For groups over fifteen, or groups of older adults, bring one helper for every eight people.
+- For groups over fifteen or older adults, bring one helper for every eight people.
 
 ## The steps to put on screen
 
-Menu names change from time to time. If one doesn't match, search the account's settings for "2-step," "two-step," or "two-factor."
+Menu names change. If one doesn't match, search the account's settings for "2-step," "two-step," or "two-factor."
 
-**Gmail (Google).** Open myaccount.google.com, choose **Security**, then **2-Step Verification**, and follow the prompts. Google may offer a passkey or a prompt on your phone. Either is good.
+**Gmail (Google).** Open myaccount.google.com, choose **Security**, then **2-Step Verification**, and follow the prompts. Google may offer a passkey or a phone prompt. Either is good.
 
 **Outlook, Hotmail, or Live (Microsoft).** Open account.microsoft.com, choose **Security**, then **Manage how I sign in** or **Advanced security options**, and turn on **Two-step verification**.
 
@@ -27,7 +27,7 @@ Menu names change from time to time. If one doesn't match, search the account's 
 
 ## Which second step to choose
 
-From strongest to simplest, any of these is far better than none:
+Strongest to simplest. Any is far better than none:
 
 1. **A passkey or security key.** Can't be phished. Offered by Google, Microsoft, and Apple.
 2. **An authenticator app or a prompt on your phone.**
@@ -35,19 +35,19 @@ From strongest to simplest, any of these is far better than none:
 
 ## While you're there: recovery
 
-Check the recovery phone number and recovery email. If they're out of date, the account can be impossible to get back. Save any backup codes the service offers somewhere safe, such as a password manager or a printed sheet kept at home.
+Check the recovery phone number and email. If they're out of date, you may not get the account back. Save any backup codes somewhere safe, such as a password manager or a printed sheet at home.
 
 ## Helping people who get stuck
 
 - **Forgot their password:** start the account's recovery now if there's time. Otherwise, note their name and follow up.
 - **No smartphone:** text message codes work on any mobile phone, and some services also offer voice calls or printed backup codes.
-- **Worried about being locked out:** show them the backup codes and recovery options, and explain they'll only be asked on a new device.
+- **Worried about being locked out:** show them the backup codes and recovery options. They'll only be asked on a new device.
 
 ## Close
 
-Ask everyone who turned it on to raise a hand, and say the count out loud. For anyone who couldn't finish, offer a follow-up time.
+Ask everyone who turned it on to raise a hand, and say the count out loud. Offer a follow-up time to anyone who couldn't finish.
 
-Want more detail for later? Ready, Secure, Go has a full card: [Turn on two-step login, starting with your email](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/accounts-and-identity/acct-two-step-login.md).
+Ready, Secure, Go has a full card: [Turn on two-step login, starting with your email](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/accounts-and-identity/acct-two-step-login.md).
 
 ## Sources
 
