@@ -5,12 +5,12 @@ description: "A wallet card of who to contact after a scam in the United States:
 
 # If you think you've been scammed
 
-**Act fast. Scams catch careful people, and a quick report gives the best chance of stopping the money.**
+**Act fast. A quick report gives the best chance of stopping the money.**
 
-1. **Call your bank or card company first**, using the number on the back of your card. Ask them to stop or reverse the payment and to watch the account.
-2. **Gift cards:** call the company that issued the card, using the number on the card or its official website. Tell them it was used in a scam and ask for your money back. Keep the card and receipt.
+1. **Call your bank or card company first**, using the number on the back of your card. Ask them to stop or reverse the payment.
+2. **Gift cards:** call the company that issued the card, using the number on the card or its official website. Say it was used in a scam and ask for your money back. Keep the card and receipt.
 3. **Change passwords** for any account the scammer may have seen, starting with email. Turn on two-step sign-in.
-4. **Report it** (below). Reports help stop the same people from reaching others.
+4. **Report it** (below). Reports help stop the same people reaching others.
 
 ## Where to report (United States)
 
@@ -25,7 +25,7 @@ description: "A wallet card of who to contact after a scam in the United States:
 
 ## Protect your credit
 
-If personal details were shared, place a credit freeze with all three bureaus: **Equifax**, **Experian**, and **TransUnion**. It stops new credit being opened in your name, it's free to place and lift, and it doesn't affect your score.
+If personal details were shared, place a credit freeze with all three bureaus: **Equifax**, **Experian**, and **TransUnion**. It stops new credit being opened in your name. It's free to place and lift, and it doesn't affect your score.
 
 ## People who can help
 

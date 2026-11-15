@@ -36,9 +36,7 @@ Keep your hand up if it mentioned **a package, the bank, or a problem with an ac
 
 ## Who sends these
 
-Organized groups, working from scripts, sending messages in bulk. They need only a few people to act **before they think**.
-
-People get caught when they're busy, stressed, or trying to help.
+Organized groups send messages in bulk from scripts. They need only a few people to act **before they think**. People get caught when they're busy, stressed, or trying to help.
 
 ---
 

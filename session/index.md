@@ -3,11 +3,11 @@ title: The session
 description: "The run sheet for a one-hour phishing awareness session: objectives, timings, materials, and how to set up the room."
 ---
 
-**Length:** 60 minutes (a 45-minute version is below). **Group size:** 5 to 40. **Audience:** anyone. See [audiences](../audiences/index.md) to adapt.
+**Length:** 60 minutes (45 below). **Group size:** 5 to 40. See [audiences](../audiences/index.md) to adapt.
 
 ## Objectives
 
-By the end, every participant can:
+Everyone can:
 
 1. Name the four pressures every scam uses: hurry, fear, secrecy, and an unusual way to pay.
 2. Use the pause: hang up, look up, call back.
@@ -20,14 +20,14 @@ By the end, every participant can:
 - Printed [one-page takeaways](../handouts/one-page-takeaway.md) and [who-to-call cards](../handouts/who-to-call.md), one each.
 - Printed [spot the scam](../exercises/spot-the-scam.md) cards, one set per table, with two or three swapped for real examples from your group.
 - The [quiz](../handouts/quiz.md) if you want a before-and-after measure, and the [feedback form](../handouts/feedback-form.md).
-- Wi-Fi details on a slide or a card, for the lab.
+- Wi-Fi details on a slide or card, for the lab.
 
 ## Run sheet
 
 | Time | Segment | Slides | Notes |
 |---|---|---|---|
 | 0:00 | Welcome and the hook | 1 to 3 | A show of hands: who's had a scam call or text this month? |
-| 0:05 | The four pressures | 4 to 6 | The idea everything else hangs on |
+| 0:05 | The four pressures | 4 to 6 | The idea the rest builds on |
 | 0:12 | The scams people see most | 7 to 11 | Five quick stories. Pick the ones your group will meet |
 | 0:22 | Spot the scam | 12 | Tables sort the cards, [exercise](../exercises/spot-the-scam.md) |
 | 0:32 | The pause, and a role-play | 13 to 14 | [Role-plays](../exercises/role-plays.md) |
@@ -41,13 +41,13 @@ Drop slides 9 to 11 (cover two scam stories instead of five), cut the role-play 
 
 ## Setting up the room
 
-- Tables of four to six work better than rows. Spot the scam needs discussion.
-- Ask people to bring their phones and know their email password, or have their password manager on hand. Say so in the invitation.
-- Have one or two helpers for the lab if the group is larger than fifteen, or mostly older adults.
+- Use tables of four to six, not rows. Spot the scam needs discussion.
+- Tell people in the invitation to bring their phones and know their email password, or have their password manager on hand.
+- Have one or two helpers for the lab if the group is over fifteen or mostly older adults.
 
 ## After the session
 
-Send the takeaway as a file, plus links to the [field guide](../guide/index.md). If you ran the quiz, compare the before and after scores and share the result with the group's organizer.
+Send the takeaway as a file, with links to the [field guide](../guide/index.md). If you ran the quiz, compare the scores and share them with the group's organizer.
 
 ## Sources
 

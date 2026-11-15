@@ -3,7 +3,7 @@ title: Before-and-after quiz
 description: "Six quick questions to give before and after a session, to see what changed. No names needed."
 ---
 
-Give the same quiz at the start and the end. Collect the papers without names, then compare how many people got each question right. The point is to see what the session changed. Nobody is graded.
+Give the same quiz at the start and the end. Collect the papers without names and compare how many people got each question right. Nobody is graded.
 
 **1. Which of these is a sign of a scam? Circle all that apply.**
 a) Being asked to act within the hour
