@@ -2,7 +2,7 @@
 
 Phishing Awareness Kit releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
 
-## Unreleased
+## v0.1.5 - 2026-11-16
 
 ### Changed
 - "Every scam uses" the four pressures is now "most scams use": some scams build trust slowly with no pressure at first. In the README, the takeaway, the session outline, the slides, and the facilitator script.
