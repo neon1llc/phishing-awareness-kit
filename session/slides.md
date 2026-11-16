@@ -25,7 +25,7 @@ Keep your hand up if it mentioned **a package, the bank, or a problem with an ac
 
 ## Today
 
-1. The four pressures every scam uses
+1. The four pressures most scams use
 2. The scams people see most
 3. Spot the scam
 4. The pause
@@ -48,6 +48,8 @@ Organized groups send messages in bulk from scripts. They need only a few people
 | **Fear** | "Your account is locked," "a warrant for your arrest" |
 | **Secrecy** | "Don't tell the bank," "keep this between us" |
 | **Odd payment** | Gift cards, wire, crypto, a payment app, cash by courier |
+
+Some scams skip the pressure at first and build trust for weeks, like a new online friend who later mentions an investment.
 
 ---
 

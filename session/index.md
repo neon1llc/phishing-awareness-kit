@@ -9,7 +9,7 @@ description: "The run sheet for a one-hour phishing awareness session: objective
 
 Everyone can:
 
-1. Name the four pressures every scam uses: hurry, fear, secrecy, and an unusual way to pay.
+1. Name the four pressures most scams use, hurry, fear, secrecy, and an unusual way to pay, and know that some scams build trust slowly instead.
 2. Use the pause: hang up, look up, call back.
 3. Show that two-step sign-in is on for their email.
 4. Say who they'd tell, at home or at work, and who to call if money is lost.
