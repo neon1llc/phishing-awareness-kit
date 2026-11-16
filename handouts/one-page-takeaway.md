@@ -7,7 +7,7 @@ description: "The page people keep: the four pressures, the pause, two-step sign
 
 ## Spot the pressure
 
-Every scam uses at least one of these. **One: slow down. Two or more: stop.**
+Most scams use at least one of these. **One: slow down. Two or more: stop.** Some scams build trust for weeks before asking for anything, so a friendly message with no pressure isn't proof it's safe.
 
 - **Hurry:** "within the hour," "today only," "before it's too late"
 - **Fear:** a locked account, a warrant, a virus, a loved one in trouble

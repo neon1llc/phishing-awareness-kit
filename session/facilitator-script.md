@@ -19,7 +19,7 @@ Invite one or two short stories. If someone lost money, thank them, say how comm
 
 **Slide 4.** "Scams are built to catch people at a busy or worried moment. The people behind them do this all day, with scripts."
 
-**Slide 5.** Go through each pressure and ask the room for an example they've heard. Write them on a board if you have one.
+**Slide 5.** Go through each pressure and ask the room for an example they've heard. Write them on a board if you have one. Then say: "Most scams use these, not all. Some are patient and friendly for weeks before money comes up. The romance and investment stories show that."
 
 **Slide 6.** Repeat this all session. "If you notice one of these, slow down. If you notice two, stop and check, every time."
 

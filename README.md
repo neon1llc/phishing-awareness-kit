@@ -12,7 +12,7 @@ From [neon1](https://neon1.tech). *1 is glad to be of service.*
 
 After the hour, people can:
 
-1. **Spot the pressure.** Every scam uses hurry, fear, secrecy, or an unusual way to pay.
+1. **Spot the pressure.** Most scams use hurry, fear, secrecy, or an unusual way to pay. Some build trust slowly first, so a calm, friendly message can still be one.
 2. **Use the pause.** Hang up, look up the real number, and call back.
 3. **Lock the front door.** Two-step sign-in is on for their email before they leave.
 4. **Know who to tell.** A family code word, a way to report at work, and who to call if money is gone.
