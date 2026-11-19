@@ -13,6 +13,7 @@ An email that seems to come from a bank, streaming service, shipping company, or
 - The sender's address, or the address the link goes to, doesn't match the company's real domain. Look closely: `paypa1-secure.example.com` isn't PayPal.
 - Fear and hurry: "suspended within 24 hours."
 - An attachment you weren't expecting, especially one that asks you to "enable content."
+- A QR code in an unexpected email or text, or one stuck over another on a sign. Check the address it opens before you enter anything.
 
 Polished emails with perfect spelling can still be fake.
 
@@ -26,4 +27,5 @@ If you entered a password, change it on the real site and anywhere else you used
 
 ## Sources
 
+- [Scammers hide harmful links in QR codes to steal your information](https://consumer.ftc.gov/consumer-alerts/2023/12/scammers-hide-harmful-links-qr-codes-steal-your-information), from the FTC: inspect the address, and don't scan unexpected QR codes.
 - [How to recognize and avoid phishing scams](https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams), from the FTC: warning signs and what to do after a click.

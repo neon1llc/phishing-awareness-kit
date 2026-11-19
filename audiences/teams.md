@@ -24,11 +24,24 @@ Slides 7 (texts), 8 (calls and codes), and 10 (invoices), plus [boss and gift ca
 
 Run the [supplier bank change](../exercises/role-plays.md#2-the-supplier-bank-change-workplace) role-play with whoever pays invoices.
 
+## For IT and security readers
+
+An awareness hour is one layer. It does not replace technical controls, and the NCSC says no training, simulations included, teaches people to spot every phishing message.
+
+- Publish SPF, DKIM, and DMARC for your domains, and move DMARC toward quarantine or reject, so your domain is harder to spoof.
+- Add a one-click report button, tell people what happened to their report, and count reports as well as clicks.
+- If you run phishing simulations, don't punish clicks. Blame discourages reporting, and the NCSC suggests checking with HR first.
+- Move administrators and finance staff to phishing-resistant sign-in (FIDO2 security keys or passkeys) first. CISA calls FIDO/WebAuthn the only widely available phishing-resistant MFA.
+- Rehearse a bank-change or wire request with finance, including the recall call to your bank.
+
 ## For companies with compliance needs
 
 A session from this kit can be part of yearly security awareness training. Whoever sets the requirement, such as an auditor, insurer, or client, decides whether it meets it. Record attendance and the date, and keep the slides and quiz results. [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness) covers what auditors look for.
 
 ## Sources
 
+- [Phishing attacks: dealing with suspicious messages](https://www.ncsc.gov.uk/guidance/phishing), from the UK NCSC: layered defences, reporting without blame, DMARC, SPF, and DKIM, and the limits of training and simulations.
+- [Phishing Guidance: Stopping the Attack Cycle at Phase One](https://www.cisa.gov/resources-tools/resources/phishing-guidance-stopping-attack-cycle-phase-one), from CISA, NSA, FBI, and MS-ISAC: guidance for network defenders and for small and medium-sized businesses.
+- [More than a password](https://www.cisa.gov/MFA), from CISA: MFA types, and why FIDO/WebAuthn is the phishing-resistant option.
 - [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.
 - [How to recognize and avoid phishing scams](https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams), from the FTC: warning signs and what to do after a click.

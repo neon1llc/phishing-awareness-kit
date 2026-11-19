@@ -26,5 +26,5 @@ Report the user to the platform. Contact your payment app or bank right away. Re
 
 ## Sources
 
-- [Fake check scams](https://consumer.ftc.gov/fake-check-scams), from the FTC: overpayments and why a deposited check can still bounce.
+- [How to spot, avoid, and report fake check scams](https://consumer.ftc.gov/articles/how-spot-avoid-and-report-fake-check-scams), from the FTC: why a deposited check can still bounce, and who to contact if you sent money.
 - [Scams](https://consumer.ftc.gov/scams), from the FTC: the index of current scam advice, including online shopping and marketplace scams.

@@ -26,6 +26,6 @@ Have students also check their most-used app: two-step sign-in, active sessions,
 
 ## Sources
 
-- [Job scams](https://consumer.ftc.gov/all-scams/job-scams), from the FTC: task scams, pay-to-work offers, and fake checks.
+- [Job scams](https://consumer.ftc.gov/articles/job-scams), from the FTC: pay-to-work offers, fake checks, and what to do if you paid.
 - [Sextortion](https://www.missingkids.org/sextortion), from the National Center for Missing & Exploited Children: get help before paying, keep the messages, block, and report.
 - [Take It Down](https://takeitdown.ncmec.org/), from NCMEC: help removing nude or explicit images of minors from participating platforms.

@@ -18,7 +18,7 @@ Emergency scams depend on panic and a believable voice. Ask "What's our word?" A
 
 ## The rule that goes with it
 
-If someone calls in an emergency and asks for money, help, or secrecy, ask for the word. If they can't give it, hang up and call the person directly on the number you already have.
+If someone calls in an emergency and asks for money, help, or secrecy, ask for the word. If they can't give it, hang up and call the person directly on the number you already have. If they do give it but something still feels wrong, hang up and call back anyway.
 
 ## In the session
 
@@ -29,4 +29,5 @@ Ready, Secure, Go has a full card: [Agree on a family code word for emergencies]
 ## Sources
 
 - [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC: grandparent and family emergency scams and how to check.
+- [Criminals Use Generative Artificial Intelligence to Facilitate Financial Fraud](https://www.ic3.gov/PSA/2024/PSA241203), from the FBI: create a secret word or phrase with your family to verify identity, and limit public voice and image content.
 - [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.

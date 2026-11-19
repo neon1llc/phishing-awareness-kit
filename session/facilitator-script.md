@@ -27,7 +27,7 @@ Invite one or two short stories. If someone lost money, thank them, say how comm
 
 Pick the stories that fit your group. The [audiences](../audiences/index.md) page suggests which. For each one, ask "What's the tell?" before you reveal it.
 
-**Slide 7, texts.** "Delivery companies and toll agencies don't text you a link to pay a fine. If you're expecting something, open the company's app or type its address yourself."
+**Slide 7, texts.** "A surprise text with a link to pay a toll, fee, or fine is a scam far more often than not. If you're expecting something, open the company's app or type its address yourself."
 
 **Slide 8, calls.** "This one is growing fast. The caller says they're protecting you, and asks you to read back a code. That code is how they sign in as you. A real fraud team never needs it."
 
