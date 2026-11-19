@@ -26,6 +26,6 @@ Stop sending money. Tell your bank about any check you deposited. If you shared 
 
 ## Sources
 
-- [Job scams](https://consumer.ftc.gov/all-scams/job-scams), from the FTC: task scams, pay-to-work offers, and fake checks.
-- [Fake check scams](https://consumer.ftc.gov/fake-check-scams), from the FTC: overpayments and why a deposited check can still bounce.
+- [Job scams](https://consumer.ftc.gov/articles/job-scams), from the FTC: pay-to-work offers, fake checks, and what to do if you paid.
+- [How to spot, avoid, and report fake check scams](https://consumer.ftc.gov/articles/how-spot-avoid-and-report-fake-check-scams), from the FTC: why a deposited check can still bounce, and who to contact if you sent money.
 - [IdentityTheft.gov](https://www.identitytheft.gov/), from the FTC: reporting identity theft and getting a recovery plan.

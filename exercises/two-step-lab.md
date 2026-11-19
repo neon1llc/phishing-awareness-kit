@@ -29,7 +29,7 @@ Menu names change. If one doesn't match, search the account's settings for "2-st
 
 Strongest to simplest. Any is far better than none:
 
-1. **A passkey or security key.** Can't be phished. Offered by Google, Microsoft, and Apple.
+1. **A passkey or security key.** Resists phishing, because it won't work on a fake sign-in page. Offered by Google, Microsoft, and Apple.
 2. **An authenticator app or a prompt on your phone.**
 3. **A text message code.** Fine to start with, especially for people who find apps hard.
 

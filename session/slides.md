@@ -144,7 +144,7 @@ Your email is the key to everything else. Whoever controls it can reset your oth
 
 Password **+** something you have (your phone, a passkey, a security key)
 
-Someone who steals your password still can't get in.
+A stolen password alone isn't enough to get in.
 
 **Never read a sign-in code to anyone.** Real companies don't ask.
 
