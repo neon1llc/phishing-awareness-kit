@@ -2,7 +2,7 @@
 
 **Slides, exercises, and a one-page takeaway for an hour on scams and safer accounts.** For a team, a family, a senior center, or a classroom.
 
-From [neon1](https://neon1.tech). *1 is glad to be of service.*
+From [neon1](https://neon1.tech).
 
 **Status:** stable. Accuracy and source updates only, no new modules for now.
 
