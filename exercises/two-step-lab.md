@@ -7,49 +7,38 @@ description: "A guided hands-on activity: everyone in the room turns on two-step
 
 ## Before the session
 
-- Tell people in the invitation to bring their phone and know their email password, or have their password manager.
-- Check the room's Wi-Fi works for guests, and put the details on a slide.
-- For groups over fifteen or older adults, bring one helper for every eight people.
+Ask people to bring their phone and know their email password. Check guest Wi-Fi works. For groups over fifteen or older adults, bring a helper for every eight people.
 
-## The steps to put on screen
+## Steps to put on screen
 
-Menu names change. If one doesn't match, search the account's settings for "2-step," "two-step," or "two-factor."
+Menu names change. If one doesn't match, search settings for "2-step," "two-step," or "two-factor."
 
-**Gmail (Google).** Open myaccount.google.com, choose **Security**, then **2-Step Verification**, and follow the prompts. Google may offer a passkey or a phone prompt. Either is good.
+- **Gmail (Google).** Open myaccount.google.com, choose **Security**, then **2-Step Verification**. A passkey or phone prompt is fine.
+- **Outlook, Hotmail, or Live (Microsoft).** Open account.microsoft.com, choose **Security**, then **Manage how I sign in** or **Advanced security options**, and turn on **Two-step verification**.
+- **iCloud (Apple).** On an iPhone, open **Settings**, tap your name, then **Sign-In & Security**. Two-factor is usually already on. Check your trusted phone number.
+- **Yahoo.** Open **Account security** and turn on **Two-step verification**.
+- **Work email.** If it isn't on, tell whoever runs IT.
 
-**Outlook, Hotmail, or Live (Microsoft).** Open account.microsoft.com, choose **Security**, then **Manage how I sign in** or **Advanced security options**, and turn on **Two-step verification**.
+## Which second step
 
-**iCloud (Apple).** On an iPhone, open **Settings**, tap your name, then **Sign-In & Security**. Two-factor authentication is usually already on. Check that your trusted phone number is current.
+Any beats none. Strongest first:
 
-**Yahoo.** Open the account's **Account security** page and turn on **Two-step verification**.
+1. **A passkey or security key.** Resists phishing: it won't work on a fake sign-in page.
+2. **An authenticator app or phone prompt.**
+3. **A text message code.** Fine to start with.
 
-**Work email.** It's usually managed by the company. If it isn't on, tell whoever runs IT.
+## Recovery
 
-## Which second step to choose
+Check the recovery phone number and email. If they're out of date, you may not get the account back. Save backup codes in a password manager or on a printed sheet at home.
 
-Strongest to simplest. Any is far better than none:
+## If someone gets stuck
 
-1. **A passkey or security key.** Resists phishing, because it won't work on a fake sign-in page. Offered by Google, Microsoft, and Apple.
-2. **An authenticator app or a prompt on your phone.**
-3. **A text message code.** Fine to start with, especially for people who find apps hard.
-
-## While you're there: recovery
-
-Check the recovery phone number and email. If they're out of date, you may not get the account back. Save any backup codes somewhere safe, such as a password manager or a printed sheet at home.
-
-## Helping people who get stuck
-
-- **Forgot their password:** start the account's recovery now if there's time. Otherwise, note their name and follow up.
-- **No smartphone:** text message codes work on any mobile phone, and some services also offer voice calls or printed backup codes.
-- **Worried about being locked out:** show them the backup codes and recovery options. They'll only be asked on a new device.
+- **Forgot their password:** start recovery now, or note their name and follow up.
+- **No smartphone:** text message codes work on any mobile phone. Some services offer voice calls or printed backup codes.
+- **Worried about lockout:** show them the backup codes and recovery options. The code is only asked for on a new device.
 
 ## Close
 
-Ask everyone who turned it on to raise a hand, and say the count out loud. Offer a follow-up time to anyone who couldn't finish.
+Ask everyone who turned it on to raise a hand, and say the count.
 
-Ready, Secure, Go has a full card: [Turn on two-step login, starting with your email](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/accounts-and-identity/acct-two-step-login.md).
-
-## Sources
-
-- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: the four core steps everyone should take, which are recognizing and reporting phishing, strong passwords, multifactor authentication with a password manager, and updates.
-- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.
+Full card in Ready, Secure, Go: [Turn on two-step login, starting with your email](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/accounts-and-identity/acct-two-step-login.md).

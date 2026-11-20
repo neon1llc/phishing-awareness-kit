@@ -5,7 +5,7 @@ description: "A message that seems to come from your manager or CEO, asking you 
 
 ## What it looks like
 
-"Are you at your desk? I need a quick favor." Then: buy gift cards for a client, a staff surprise, or an urgent vendor, and send the codes by photo. The message comes from a personal email address or an unknown number, using your manager's name and photo.
+"Are you at your desk? I need a quick favor." Then: buy gift cards for a client or vendor and send the codes by photo. It comes from a personal email or unknown number, using your manager's name and photo.
 
 ## The tell
 
@@ -15,13 +15,13 @@ description: "A message that seems to come from your manager or CEO, asking you 
 
 ## What to do
 
-Call or walk over to the person and ask, using a number you already had. Report the message to whoever handles security. Managers can help by telling their teams, out loud, that they'll never ask for gift cards this way.
+Call or walk over to the person, using a number you already had. Report the message to whoever handles security. Managers can tell their teams they'll never ask for gift cards this way.
 
 ## If it already happened
 
-Call the gift card company right away, using the number on the card. Say the cards were used in a scam and ask for your money back. Keep the cards and receipts. Tell your manager and IT, and report it at **ReportFraud.ftc.gov**.
+Call the gift card company on the number on the card, say the cards were used in a scam, and ask for your money back. Keep the cards and receipts. Tell your manager and IT.
 
 ## Sources
 
-- [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC: no real business or agency asks for gift cards, and what to do if you paid with one.
-- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.
+- [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC.
+- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI.

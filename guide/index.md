@@ -3,7 +3,9 @@ title: Field guide
 description: "Eleven common scams, each with what it looks like, the tell, and what to do. For facilitators to prepare and for anyone to read afterward."
 ---
 
-Each page covers **what it looks like**, **the tell**, **what to do**, and **if it already happened**. The four pressures (hurry, fear, secrecy, and an odd way to pay) run through all of them.
+Each page covers what it looks like, the tell, what to do, and what to do if it already happened. The four pressures (hurry, fear, secrecy, an odd way to pay) run through all of them.
+
+When something already went wrong, call your bank and report it, as the [who-to-call card](../handouts/who-to-call.md) says. Each page's "if it already happened" adds the steps specific to that scam. Ready, Secure, Go has full [playbooks](https://github.com/neon1llc/ready-secure-go/tree/main/content/playbooks).
 
 | Scam | Arrives by | Most often aimed at |
 |---|---|---|
@@ -18,5 +20,3 @@ Each page covers **what it looks like**, **the tell**, **what to do**, and **if 
 | [Romance and investment scams](romance-investment.md) | Social media, dating apps, wrong-number texts | Adults of every age |
 | [Online marketplace and overpayment scams](marketplace.md) | Marketplace apps | Buyers and sellers |
 | [Job and task scams](job-scams.md) | Text, social media, job sites | Students, job seekers |
-
-When something already went wrong, the [who-to-call card](../handouts/who-to-call.md) has the first steps, and Ready, Secure, Go has full [playbooks](https://github.com/neon1llc/ready-secure-go/tree/main/content/playbooks).

@@ -2,6 +2,11 @@
 
 Phishing Awareness Kit releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
 
+## v0.1.8 - 2026-11-20
+
+### Changed
+- Tighter wording across the README, session pages, exercises, handouts, audience pages, and field guide, with the same facts and the same 20 slides. The facilitator script repeats less of the slides. Sources for the session now sit on one page, and the exercise pages point to the field guide for theirs. The who-to-call card links its sources inline. Each field guide page leaves the generic first steps to the who-to-call card and keeps only the steps specific to that scam.
+
 ## v0.1.7 - 2026-11-19
 
 ### Changed

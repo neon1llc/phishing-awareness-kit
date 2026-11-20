@@ -19,24 +19,22 @@ paginate: true
 
 Who's had a call, text, or email this month that felt off?
 
-Keep your hand up if it mentioned **a package, the bank, or a problem with an account**.
-
 ---
 
 ## Today
 
-1. The four pressures most scams use
+1. The four pressures
 2. The scams people see most
 3. Spot the scam
 4. The pause
-5. Lock the front door: two-step sign-in, **turned on before you leave**
+5. Two-step sign-in, **on before you leave**
 6. Who to tell
 
 ---
 
 ## Who sends these
 
-Organized groups send messages in bulk from scripts. They need only a few people to act **before they think**. People get caught when they're busy, stressed, or trying to help.
+Organized groups send these in bulk. They need only a few people to act **before they think**.
 
 ---
 
@@ -49,13 +47,13 @@ Organized groups send messages in bulk from scripts. They need only a few people
 | **Secrecy** | "Don't tell the bank," "keep this between us" |
 | **Odd payment** | Gift cards, wire, crypto, a payment app, cash by courier |
 
-Some scams skip the pressure at first and build trust for weeks, like a new online friend who later mentions an investment.
+Some scams build trust for weeks first, like a new online friend who later mentions an investment.
 
 ---
 
 ## One pressure: be careful. Two or more: stop.
 
-No real bank, government agency, or tech company will ask you to pay with gift cards, or to keep a call secret from your family or your bank.
+No real bank, agency, or tech company asks for gift cards, or for a call to be kept secret from your family or bank.
 
 ---
 
@@ -65,7 +63,7 @@ No real bank, government agency, or tech company will ask you to pay with gift c
 
 "Unpaid toll balance. Pay now to avoid a fine: [link]"
 
-**The tell:** a link you didn't expect, to a site you didn't choose.
+**The tell:** a link you didn't expect.
 
 ---
 
@@ -79,9 +77,7 @@ No real bank, government agency, or tech company will ask you to pay with gift c
 
 ## The emergency: "Grandma, it's me"
 
-A crying voice, an accident or arrest, an urgent need for money, and a plea not to tell Mom.
-
-Voices can be cloned from a few seconds of video.
+A crying voice, an accident or arrest, a plea for money, and "don't tell Mom." Voices can be cloned from a few seconds of video.
 
 **The tell:** urgency plus secrecy, from someone you love.
 
@@ -89,7 +85,7 @@ Voices can be cloned from a few seconds of video.
 
 ## The invoice: "We changed banks"
 
-An email from a real supplier's address, or one a letter off, asking you to pay the next invoice to a new account.
+An email from a supplier's address, or one a letter off, asking you to pay the next invoice to a new account.
 
 **The tell:** any change to where money goes, arriving by email.
 
@@ -97,7 +93,7 @@ An email from a real supplier's address, or one a letter off, asking you to pay 
 
 ## The long game: romance and investment
 
-A new friend online, weeks of kind messages, then an "opportunity" or an emergency.
+A new online friend, weeks of kind messages, then an "opportunity" or an emergency.
 
 **The tell:** someone you've never met in person who ends up talking about money.
 
@@ -105,9 +101,9 @@ A new friend online, weeks of kind messages, then an "opportunity" or an emergen
 
 ## Spot the scam
 
-Each table has a stack of messages. Sort them: **scam**, **real**, or **can't tell yet**.
+Sort your table's messages: **scam**, **real**, or **can't tell yet**.
 
-For each scam, name the pressure. For "can't tell yet," say how you'd check.
+Name the pressure in each scam. For "can't tell yet," say how you'd check.
 
 *10 minutes*
 
@@ -125,34 +121,30 @@ Never use a number, link, or button from the message that asked.
 
 ## Practice the pause
 
-Two volunteers. One plays "the bank." One plays themselves.
+Two volunteers: one plays "the bank," one plays themselves.
 
-The only goal: get off the call politely and call back on a number you found yourself.
+The goal: end the call politely and call back on a number you found yourself.
 
 ---
 
 ## Lock the front door
 
-Your email is the key to everything else. Whoever controls it can reset your other passwords.
+Whoever controls your email can reset your other passwords.
 
 - **A different password** for every account. A password manager remembers them.
-- **Two-step sign-in** on email first, then banking, then everything else.
+- **Two-step sign-in** on email first, then banking.
 
 ---
 
 ## Two-step sign-in, in one picture
 
-Password **+** something you have (your phone, a passkey, a security key)
-
-A stolen password alone isn't enough to get in.
+Password **+** something you have (phone, passkey, security key). A stolen password alone isn't enough.
 
 **Never read a sign-in code to anyone.** Real companies don't ask.
 
 ---
 
 ## Let's turn it on, now
-
-Open your email account's security settings.
 
 - **Gmail:** Google Account → Security → 2-Step Verification
 - **Outlook / Microsoft:** account.microsoft.com → Security → Advanced security options
@@ -166,7 +158,7 @@ Raise your hand when it's on, or if you're stuck.
 ## Who to tell
 
 - **At home:** a family code word, agreed in person, for any emergency call.
-- **At work:** [how to report a suspicious message here]. Report it, even after a click. Fast reports limit the damage.
+- **At work:** [how to report a suspicious message here]. Report it, even after a click.
 - **If money is gone:** call your bank first, right away. Then report it (see your card).
 
 ---
@@ -191,15 +183,3 @@ Questions?
 
 Material: Phishing Awareness Kit by neon1 (neon1.tech), CC BY-SA 4.0
 
----
-
-## Sources
-
-- [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC: no real business or agency asks for gift cards, and what to do if you paid with one.
-- [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC: government, bank, and business impostors.
-- [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC: grandparent and family emergency scams and how to check.
-- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.
-- [What to know about romance scams](https://consumer.ftc.gov/articles/what-know-about-romance-scams), from the FTC: how they start and the turn to money.
-- [How to recognize and report spam text messages](https://consumer.ftc.gov/articles/how-recognize-and-report-spam-text-messages), from the FTC: the source for forwarding scam texts to 7726.
-- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: the four core steps everyone should take, which are recognizing and reporting phishing, strong passwords, multifactor authentication with a password manager, and updates.
-- [Marp](https://marp.app), the open-source Markdown slide tool the deck is written for.

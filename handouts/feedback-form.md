@@ -3,7 +3,7 @@ title: Feedback form
 description: "A short form to collect at the end of a session, to improve the next one."
 ---
 
-Thank you for coming. No name needed.
+No name needed.
 
 **1. How useful was this session?**
 Not useful ☐ A little ☐ Useful ☐ Very useful ☐
@@ -22,8 +22,3 @@ ______________________________________________
 **5. What other topic would you like help with?**
 ☐ Passwords and password managers ☐ Protecting older relatives ☐ Kids and phones ☐ Home Wi-Fi ☐ Backups and photos ☐ Other: ____________
 
-**6. Would you recommend this session to a friend or coworker?** Yes ☐ No ☐
-
-Anything else?
-
-______________________________________________
