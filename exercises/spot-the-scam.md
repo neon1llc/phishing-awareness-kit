@@ -3,9 +3,9 @@ title: Spot the scam
 description: "Twelve printable message cards, some scams and some real, with an answer key naming each pressure and how to check."
 ---
 
-**Time:** 10 minutes at tables, then 5 minutes together. **Setup:** print the cards below, one set per table, and cut them apart. Swap two or three for real messages your group has received, with every name, number, and link removed. Keep the answer key for yourself.
+**Time:** 10 minutes at tables, then 5 together. **Setup:** print the cards, one set per table, and cut them apart. Swap two or three for real messages your group has received, with every name, number, and link removed. Keep the answer key.
 
-**Instructions for the group:** sort the cards into three piles: *scam*, *real*, and *can't tell yet*. For each scam, name the pressure. For each *can't tell yet*, say how you'd check safely.
+**For the group:** sort the cards into *scam*, *real*, and *can't tell yet*. Name the pressure on each scam. Say how you'd check each *can't tell yet* safely.
 
 All links and numbers here are fake.
 
@@ -70,9 +70,9 @@ All links and numbers here are fake.
 
 - The real messages mostly send you somewhere you already know: the app, the back of your card, your usual sign-in. The scams send you somewhere new: their link, their number, their payment method.
 - A real message can still look odd. When in doubt, check the same safe way every time.
-- Card 7 is a good moment to explain why codes matter: the code is the second key, and the warning in the real message says so.
+- Card 7 shows why codes matter: the code is the second key, and the real message warns you not to share it.
 
-For more on each type, see the [field guide](../guide/index.md).
+More on each type is in the [field guide](../guide/index.md).
 
 ## Sources
 

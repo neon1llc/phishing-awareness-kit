@@ -3,7 +3,7 @@ title: Field guide
 description: "Eleven common scams, each with what it looks like, the tell, and what to do. For facilitators to prepare and for anyone to read afterward."
 ---
 
-Each page covers **what it looks like**, **the tell**, **what to do**, and **if it already happened**. The four pressures (hurry, fear, secrecy, and an odd way to pay) run through all of them.
+Each page covers what it looks like, the tell, what to do, and what to do if it already happened. The four pressures (hurry, fear, secrecy, and an odd way to pay) run through all of them.
 
 | Scam | Arrives by | Most often aimed at |
 |---|---|---|

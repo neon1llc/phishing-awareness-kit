@@ -10,4 +10,4 @@ description: "Hands-on activities for a scam awareness session: sorting real and
 | [Two-step sign-in lab](two-step-lab.md) | 10 to 15 min | Two-step sign-in on email, done in the room |
 | [Family code word](family-code-word.md) | 5 min, or homework | A plan for emergency calls |
 
-Always include the lab. It protects people even when they miss a scam.
+Always run the lab. It protects people even when they miss a scam.

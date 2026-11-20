@@ -10,4 +10,4 @@ description: "Printable material for a scam awareness session: the one-page take
 | [Quiz](quiz.md) | Before and after, if you want to measure what changed. |
 | [Feedback form](feedback-form.md) | At the very end. |
 
-Print in at least 14 point type for older audiences. Handouts are plain Markdown, so you can paste them into any document tool.
+Print in at least 14 point type for older audiences. The handouts are plain Markdown, so you can paste them into any document tool.

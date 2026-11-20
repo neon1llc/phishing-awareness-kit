@@ -3,7 +3,7 @@ title: Feedback form
 description: "A short form to collect at the end of a session, to improve the next one."
 ---
 
-Thank you for coming. No name needed.
+No name needed.
 
 **1. How useful was this session?**
 Not useful ☐ A little ☐ Useful ☐ Very useful ☐

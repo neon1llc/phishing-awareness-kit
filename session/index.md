@@ -9,7 +9,7 @@ description: "The run sheet for a one-hour phishing awareness session: objective
 
 Everyone can:
 
-1. Name the four pressures most scams use, hurry, fear, secrecy, and an unusual way to pay, and know that some scams build trust slowly instead.
+1. Name the four pressures (hurry, fear, secrecy, and an unusual way to pay) and know that some scams build trust slowly instead.
 2. Use the pause: hang up, look up, call back.
 3. Show that two-step sign-in is on for their email.
 4. Say who they'd tell, at home or at work, and who to call if money is lost.
@@ -19,7 +19,7 @@ Everyone can:
 - The [slides](slides.md), turned into a presentation (see the [README](../README.md#the-slides)).
 - Printed [one-page takeaways](../handouts/one-page-takeaway.md) and [who-to-call cards](../handouts/who-to-call.md), one each.
 - Printed [spot the scam](../exercises/spot-the-scam.md) cards, one set per table, with two or three swapped for real examples from your group.
-- The [quiz](../handouts/quiz.md) if you want a before-and-after measure, and the [feedback form](../handouts/feedback-form.md).
+- The [quiz](../handouts/quiz.md) for a before-and-after measure, and the [feedback form](../handouts/feedback-form.md).
 - Wi-Fi details on a slide or card, for the lab.
 
 ## Run sheet
@@ -37,7 +37,7 @@ Everyone can:
 
 ## The 45-minute version
 
-Drop slides 9 to 11 (cover two scam stories instead of five), cut the role-play to one pair in front of the room, and give the lab ten minutes.
+Drop slides 9 to 11 (two scam stories instead of five), run the role-play with one pair in front of the room, and give the lab ten minutes.
 
 ## Setting up the room
 
@@ -47,9 +47,9 @@ Drop slides 9 to 11 (cover two scam stories instead of five), cut the role-play 
 
 ## After the session
 
-Send the takeaway as a file, with links to the [field guide](../guide/index.md). If you ran the quiz, compare the scores and share them with the group's organizer.
+Send the takeaway as a file, with a link to the [field guide](../guide/index.md). If you ran the quiz, compare the scores and share them with the group's organizer.
 
 ## Sources
 
-- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: the four core steps everyone should take, which are recognizing and reporting phishing, strong passwords, multifactor authentication with a password manager, and updates.
+- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: report phishing, use strong passwords, turn on multifactor authentication, and update software.
 - [Teach kits](https://github.com/neon1llc/ready-secure-go/tree/main/content/teach), in Ready, Secure, Go: longer kits for parents and teachers, small offices, and seniors' groups.

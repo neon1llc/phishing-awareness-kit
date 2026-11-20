@@ -4,13 +4,11 @@
 
 From [neon1](https://neon1.tech). *1 is glad to be of service.*
 
-**Status:** the scope is stable. This repository gets accuracy and source updates, and no new modules for now.
+**Status:** stable. Accuracy and source updates only, no new modules for now.
 
 ---
 
-## What a session does
-
-After the hour, people can:
+## What people leave with
 
 1. **Spot the pressure.** Most scams use hurry, fear, secrecy, or an unusual way to pay. Some build trust slowly first, so a calm, friendly message can still be one.
 2. **Use the pause.** Hang up, look up the real number, and call back.
@@ -32,7 +30,7 @@ After the hour, people can:
 1. Read the [run sheet](session/index.md) and pick your [audience](audiences/index.md).
 2. Swap two or three examples in [spot the scam](exercises/spot-the-scam.md) for ones your group has received, with names removed.
 3. Turn the slides into a presentation (below) and print one takeaway per person.
-4. Follow the [facilitator script](session/facilitator-script.md). Keep the last fifteen minutes for the two-step sign-in lab, which protects people even if they miss a scam later.
+4. Follow the [facilitator script](session/facilitator-script.md). Protect the two-step sign-in lab: it helps people even if they miss a scam later.
 
 ## The slides
 
@@ -42,13 +40,11 @@ After the hour, people can:
 npx @marp-team/marp-cli session/slides.md --pdf     # or --pptx, or --html
 ```
 
-## How it fits with neon1's other guides
+## Related
 
-- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go) has practice cards, playbooks for when something already went wrong, and teach kits for specific groups. This kit links to its cards.
-- [Household Tech Handbook](https://github.com/neon1llc/household-tech-handbook) is for the person who looks after a family's devices and accounts.
-- [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness) is SOC 2 readiness training for companies. A session from this kit can count toward yearly awareness training.
-
-Want neon1 to run a session for your group? See [neon1.tech](https://neon1.tech).
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go): practice cards, playbooks, and teach kits. This kit links to its cards.
+- [Household Tech Handbook](https://github.com/neon1llc/household-tech-handbook): for the person who looks after a family's devices and accounts.
+- [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness): training for companies. A session from this kit can count toward yearly awareness training.
 
 ## Checking a change
 
@@ -60,7 +56,7 @@ node tools/check.mjs    # front matter on every page, and no broken links
 
 | What | License | What it means |
 |---|---|---|
-| Written material (everything except `tools/` and `.github/`) | [CC BY-SA 4.0](LICENSE) | Share, teach from, and adapt it, even commercially. Credit it as *"Based on Phishing Awareness Kit by neon1 (neon1.tech), CC BY-SA 4.0"* and share your changes under the same license. |
+| Written material (everything except `tools/` and `.github/`) | [CC BY-SA 4.0](LICENSE) | Share, teach from, and adapt it, even commercially. Credit it as *"Based on Phishing Awareness Kit by neon1 (neon1.tech), CC BY-SA 4.0"* and share changes under the same license. |
 | Code (`tools/`, `.github/`) | [MIT](LICENSE-CODE) | Use it for anything, keeping the copyright notice. |
 | The Phishing Awareness Kit and neon1 names and the neon1 logo | Reserved | Not covered by either license. See [TRADEMARK.md](TRADEMARK.md). |
 

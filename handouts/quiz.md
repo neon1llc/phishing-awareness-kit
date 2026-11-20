@@ -3,7 +3,7 @@ title: Before-and-after quiz
 description: "Six quick questions to give before and after a session, to see what changed. No names needed."
 ---
 
-Give the same quiz at the start and the end. Collect the papers without names and compare how many people got each question right. Nobody is graded.
+Give the same quiz at the start and end. Collect papers without names and compare how many got each question right. Nobody is graded.
 
 **1. Which of these is a sign of a scam? Circle all that apply.**
 a) Being asked to act within the hour
@@ -38,4 +38,4 @@ c) Nobody, since it's too late
 ## Sources
 
 - [Smishing: package tracking text scams](https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams), from the U.S. Postal Inspection Service: USPS texts only people who asked for tracking, and those texts contain no links.
-- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: the four core steps everyone should take, which are recognizing and reporting phishing, strong passwords, multifactor authentication with a password manager, and updates.
+- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: report phishing, use strong passwords, turn on multifactor authentication, and update software.

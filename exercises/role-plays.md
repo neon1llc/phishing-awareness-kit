@@ -5,7 +5,7 @@ description: "Three short scripts for practicing the pause: a bank fraud call, a
 
 **Time:** 5 to 10 minutes. **How:** the facilitator plays the scammer first, then pairs try it at their tables. The person being called ends the call politely and says how they'd call back on a number they found themselves.
 
-Push a little, but stay kind. Stop when the person hangs up, and cheer.
+Push a little, stay kind, and stop when they hang up.
 
 ## 1. The bank fraud call
 
@@ -29,7 +29,7 @@ Push a little, but stay kind. Stop when the person hangs up, and cheer.
 
 **What we want to hear:** "I'll call you back on the number we have on file for Riverside to confirm." Then hang up and look it up.
 
-**Debrief:** the email and call together seem more real. The rule still holds: any change to where money goes gets a callback to a number you already had.
+**Debrief:** an email plus a call feels more real. The rule holds: any change to where money goes gets a callback to a number you already had.
 
 ## 3. The grandparent emergency
 
@@ -43,7 +43,7 @@ Push a little, but stay kind. Stop when the person hangs up, and cheer.
 
 ## Making your own
 
-Use a scam your group has seen. Write three lines: the opening, the request, and the push. The goal stays the same: hang up, look up, call back.
+Use a scam your group has seen. Write three lines: the opening, the request, and the push. The goal stays the same.
 
 ## Sources
 

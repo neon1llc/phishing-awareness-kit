@@ -27,7 +27,7 @@ Menu names change. If one doesn't match, search the account's settings for "2-st
 
 ## Which second step to choose
 
-Strongest to simplest. Any is far better than none:
+Strongest to simplest. Any beats none:
 
 1. **A passkey or security key.** Resists phishing, because it won't work on a fake sign-in page. Offered by Google, Microsoft, and Apple.
 2. **An authenticator app or a prompt on your phone.**
@@ -41,7 +41,7 @@ Check the recovery phone number and email. If they're out of date, you may not g
 
 - **Forgot their password:** start the account's recovery now if there's time. Otherwise, note their name and follow up.
 - **No smartphone:** text message codes work on any mobile phone, and some services also offer voice calls or printed backup codes.
-- **Worried about being locked out:** show them the backup codes and recovery options. They'll only be asked on a new device.
+- **Worried about being locked out:** show them the backup codes and recovery options. The code is only asked for on a new device.
 
 ## Close
 
@@ -51,5 +51,4 @@ Ready, Secure, Go has a full card: [Turn on two-step login, starting with your e
 
 ## Sources
 
-- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: the four core steps everyone should take, which are recognizing and reporting phishing, strong passwords, multifactor authentication with a password manager, and updates.
-- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.
+- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: report phishing, use strong passwords, turn on multifactor authentication, and update software.

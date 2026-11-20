@@ -21,7 +21,7 @@ Talk to someone you trust before sending any money. Search the platform's name w
 
 ## If it already happened
 
-Stop sending money, even for "fees to release your funds." That's a second stage of the same scam. Call your bank. Report it at **ic3.gov** and **ReportFraud.ftc.gov**. Be wary of anyone who later offers to recover the money for a fee. That's a known follow-up scam. Talking with someone you trust helps.
+Stop sending money, even for "fees to release your funds." That's a second stage of the same scam. Call your bank. Report it at **ic3.gov** and **ReportFraud.ftc.gov**. Be wary of anyone who later offers to recover the money for a fee, a known follow-up scam. Talk to someone you trust.
 
 ## Sources
 

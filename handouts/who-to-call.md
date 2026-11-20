@@ -46,7 +46,6 @@ If personal details were shared, place a credit freeze with all three bureaus: *
 - AARP Fraud Watch Network Helpline, free and toll-free: **877-908-3360**, weekdays 8am to 8pm Eastern time
 - Someone you trust: a family member, friend, or the person who ran this session.
 
-
 ## Sources
 
 - [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/), from the FTC: where to report a scam.

@@ -25,4 +25,3 @@ Ready, Secure, Go has the full practice: [Never change payment details on the st
 
 - [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.
 - [Internet Crime Complaint Center](https://www.ic3.gov/), from the FBI: where to report online fraud, and the note that fast reports sometimes let the FBI freeze stolen funds.
-- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.

@@ -5,7 +5,7 @@ description: "Adapting the session for an office or team: money attacks, account
 
 ## Pace and setup
 
-- Hold it for 60 minutes during work hours so everyone comes, including leadership.
+- Hold the full 60 minutes during work hours so everyone comes, leadership included.
 - Ask IT or the office manager for real phishing messages the company received, with names removed, and how staff report them.
 - Ask the most senior person present to say at the start that reporting is welcome, even after a mistake.
 
@@ -26,7 +26,7 @@ Run the [supplier bank change](../exercises/role-plays.md#2-the-supplier-bank-ch
 
 ## For IT and security readers
 
-An awareness hour is one layer. It does not replace technical controls, and the NCSC says no training, simulations included, teaches people to spot every phishing message.
+An awareness hour is one layer, not a replacement for technical controls. The NCSC says no training, simulations included, teaches people to spot every phishing message.
 
 - Publish SPF, DKIM, and DMARC for your domains, and move DMARC toward quarantine or reject, so your domain is harder to spoof.
 - Add a one-click report button, tell people what happened to their report, and count reports as well as clicks.
@@ -36,7 +36,7 @@ An awareness hour is one layer. It does not replace technical controls, and the 
 
 ## For companies with compliance needs
 
-A session from this kit can be part of yearly security awareness training. Whoever sets the requirement, such as an auditor, insurer, or client, decides whether it meets it. Record attendance and the date, and keep the slides and quiz results. [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness) covers what auditors look for.
+A session can be part of yearly security awareness training, but whoever sets the requirement (an auditor, insurer, or client) decides whether it counts. Record attendance and the date, and keep the slides and quiz results. [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness) covers what auditors look for.
 
 ## Sources
 

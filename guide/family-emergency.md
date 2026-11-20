@@ -7,7 +7,7 @@ description: "A call from a 'grandchild' or other loved one in an accident or in
 
 A panicked voice: "Grandma, it's me. I'm in trouble." An accident, an arrest, a hospital abroad. Then a "lawyer" or "officer" takes over and explains how to send bail money, sometimes by a courier who comes to your door.
 
-Scammers can now copy a voice from a few seconds of video posted online, so it may sound exactly like your grandchild.
+Scammers can copy a voice from a few seconds of online video, so it may sound exactly like your grandchild.
 
 ## The tell
 

@@ -15,7 +15,7 @@ description: "A message that seems to come from your manager or CEO, asking you 
 
 ## What to do
 
-Call or walk over to the person and ask, using a number you already had. Report the message to whoever handles security. Managers can help by telling their teams, out loud, that they'll never ask for gift cards this way.
+Call or walk over to the person and ask, using a number you already had. Report the message to whoever handles security. Managers can help by telling their teams out loud that they'll never ask for gift cards this way.
 
 ## If it already happened
 

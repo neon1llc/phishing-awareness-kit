@@ -37,11 +37,10 @@ Never use a link, number, or button from the message that asked.
 - **At work, report suspicious messages to:** ____________________
 - **If money is gone:** call your bank's number from the back of your card **right away**, then report it. See the who-to-call card.
 
-
 ## Sources
 
 - [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC: no real business or agency asks for gift cards, and what to do if you paid with one.
 - [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC: government, bank, and business impostors.
-- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: the four core steps everyone should take, which are recognizing and reporting phishing, strong passwords, multifactor authentication with a password manager, and updates.
+- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: report phishing, use strong passwords, turn on multifactor authentication, and update software.
 
 *Phishing Awareness Kit by neon1 (neon1.tech), CC BY-SA 4.0.*

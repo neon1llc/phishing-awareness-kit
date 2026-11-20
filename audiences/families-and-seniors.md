@@ -5,18 +5,18 @@ description: "Adapting the session for older adults and the family members who h
 
 ## Pace and setup
 
-- Allow 75 minutes, or cover fewer scams. The lab takes longer, and people share stories.
+- Allow 75 minutes, or cover fewer scams. The lab runs long, and people share stories.
 - Print in at least 14-point type. Use a microphone in a large room.
 - Bring one helper for every eight people for the lab.
 - Invite caregivers and adult children. Pairs learn faster, and they can pick a code word on the spot.
 
 ## Which scams to show
 
-Slides 8 (calls and codes), 9 (emergencies), plus the [tech support](../guide/tech-support.md) and [government impostor](../guide/government-impostor.md) stories. Add [romance](../guide/romance-investment.md) if the group is comfortable. It hits widowed and isolated people hard.
+Slides 8 (calls and codes) and 9 (emergencies), plus the [tech support](../guide/tech-support.md) and [government impostor](../guide/government-impostor.md) stories. Add [romance](../guide/romance-investment.md) if the group is comfortable. It hits widowed and isolated people hard.
 
 ## What to emphasize
 
-- **Respect.** Many people in the room have spotted more scams than you. Ask for their stories.
+- **Respect.** Ask for their stories.
 - **The pause needs no technology.** Hanging up and calling back works on any phone.
 - **Banks, police, and courts don't collect money at your door.** Scammers sometimes send someone to pick up cash for a "grandchild's bail."
 - **The family code word**, set in person, with grandchildren too.
@@ -29,7 +29,7 @@ Suggest these, with the person's permission:
 - Set up bank alerts for large withdrawals, and consider a trusted contact on the accounts.
 - Turn on call screening or silence unknown callers on the phone.
 - Place credit freezes with all three bureaus.
-- Agree on a "call me first" rule for any request for money, without making it feel like lost independence.
+- Agree on a "call me first" rule for any request for money, framed as a second opinion, not lost independence.
 
 [Household Tech Handbook](https://github.com/neon1llc/household-tech-handbook) has a chapter on helping aging parents with technology.
 
