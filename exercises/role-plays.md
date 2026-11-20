@@ -3,9 +3,7 @@ title: Role-plays
 description: "Three short scripts for practicing the pause: a bank fraud call, a supplier bank change, and a grandparent emergency."
 ---
 
-**Time:** 5 to 10 minutes. **How:** the facilitator plays the scammer first, then pairs try it at their tables. The person being called ends the call politely and says how they'd call back on a number they found themselves.
-
-Push a little, stay kind, and stop when they hang up.
+**Time:** 5 to 10 minutes. **How:** the facilitator plays the scammer first, then pairs try it at their tables. The person being called ends the call politely and says how they'd call back on a number they found themselves. Push a little, stay kind, and stop when they hang up.
 
 ## 1. The bank fraud call
 
@@ -15,39 +13,37 @@ Push a little, stay kind, and stop when they hang up.
 
 **Scammer:** "Okay, I've paused it. To cancel it completely, I need to verify you. I'm sending a code to your phone now. Can you read it to me?"
 
-**Push:** "If we can't verify you in the next few minutes, the transfer goes through and I can't stop it."
+**Push:** "If we can't verify you in the next few minutes, the transfer goes through."
 
 **What we want to hear:** "I'll call the bank myself on the number on my card." Then hang up.
 
-**Debrief:** the caller created fear (a theft) and hurry (minutes), then asked for a code. The code was the goal. A real bank can stop a transfer without one.
+**Debrief:** fear and hurry, then a code. The code was the goal. A real bank can stop a transfer without one.
 
 ## 2. The supplier bank change (workplace)
 
-**Scammer:** "Hi, it's Alex from Riverside Supplies. Our bank's changed, so I emailed you the new details this morning. Can you confirm you've updated them before today's payment run? Our accounts team is chasing me."
+**Scammer:** "Hi, it's Alex from Riverside Supplies. Our bank's changed, so I emailed you the new details this morning. Can you confirm you've updated them before today's payment run?"
 
 **Push:** "If it goes to the old account it'll bounce, and we'll have to put your orders on hold."
 
-**What we want to hear:** "I'll call you back on the number we have on file for Riverside to confirm." Then hang up and look it up.
+**What we want to hear:** "I'll call you back on the number we have on file for Riverside." Then hang up and look it up.
 
-**Debrief:** an email plus a call feels more real. The rule holds: any change to where money goes gets a callback to a number you already had.
+**Debrief:** an email plus a call feels more real. Any change to where money goes gets a callback to a number you already had.
 
 ## 3. The grandparent emergency
 
-**Scammer:** *(sounding upset)* "Grandpa? It's me. I'm in trouble. I was in a car accident and the police are saying I have to pay bail. Please don't tell Mom and Dad, they'll be so angry. My lawyer is going to call you about the money."
+**Scammer:** *(sounding upset)* "Grandpa? It's me. I was in a car accident and the police say I have to pay bail. Please don't tell Mom and Dad, they'll be so angry. My lawyer is going to call you about the money."
 
 **Push:** "Please, I'm scared. I only get one call."
 
-**What we want to hear:** "I love you. I'm going to call you right back on your phone," or asking for the family code word. Then hang up and call the grandchild, or another family member, on the number they already have.
+**What we want to hear:** "I love you. I'm going to call you right back on your phone," or a request for the family code word. Then hang up and call the grandchild, or another family member, on a number they already have.
 
-**Debrief:** this one works on love for someone else. Secrecy ("don't tell Mom") is the biggest tell. Voices can be faked from short online clips. A family code word, agreed in person, settles it. See [family code word](family-code-word.md).
+**Debrief:** this one works on love. Secrecy ("don't tell Mom") is the biggest tell. Voices can be faked from short online clips, and a [family code word](family-code-word.md) settles it.
 
-## Making your own
-
-Use a scam your group has seen. Write three lines: the opening, the request, and the push. The goal stays the same.
+To make your own, use a scam your group has seen and write three lines: the opening, the request, and the push.
 
 ## Sources
 
-- [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC: government, bank, and business impostors.
-- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.
-- [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC: grandparent and family emergency scams and how to check.
-- [Don't open your door to grandparent scams](https://consumer.ftc.gov/consumer-alerts/2021/04/dont-open-your-door-grandparent-scams), from the FTC: scammers sending someone to the door to collect cash for "bail."
+- [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC.
+- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI.
+- [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC.
+- [Don't open your door to grandparent scams](https://consumer.ftc.gov/consumer-alerts/2021/04/dont-open-your-door-grandparent-scams), from the FTC: scammers send someone to the door to collect cash for "bail."

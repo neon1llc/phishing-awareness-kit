@@ -7,8 +7,8 @@ description: "Job offers that pay for simple online tasks, ask you to deposit a 
 
 - A text: "We saw your resume. Earn $300 a day liking videos or rating products from home."
 - Simple tasks pay at first, then you're asked to deposit your own money (often crypto) to "unlock" bigger tasks.
-- A job that sends you a check to buy equipment from "our vendor," and asks you to send back the rest. The check bounces days later.
-- An interview held only by chat, followed by a request for your Social Security number and bank details before any contract.
+- A check arrives to buy equipment from "our vendor," and you're asked to send back the rest. The check bounces days later.
+- A chat-only interview, then a request for your Social Security number and bank details before any contract.
 
 ## The tell
 
@@ -28,4 +28,4 @@ Stop sending money. Tell your bank about any check you deposited. If you shared 
 
 - [Job scams](https://consumer.ftc.gov/articles/job-scams), from the FTC: pay-to-work offers, fake checks, and what to do if you paid.
 - [How to spot, avoid, and report fake check scams](https://consumer.ftc.gov/articles/how-spot-avoid-and-report-fake-check-scams), from the FTC: why a deposited check can still bounce, and who to contact if you sent money.
-- [IdentityTheft.gov](https://www.identitytheft.gov/), from the FTC: reporting identity theft and getting a recovery plan.
+- [IdentityTheft.gov](https://www.identitytheft.gov/), from the FTC.

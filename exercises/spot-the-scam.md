@@ -3,11 +3,9 @@ title: Spot the scam
 description: "Twelve printable message cards, some scams and some real, with an answer key naming each pressure and how to check."
 ---
 
-**Time:** 10 minutes at tables, then 5 together. **Setup:** print the cards, one set per table, and cut them apart. Swap two or three for real messages your group has received, with every name, number, and link removed. Keep the answer key.
+**Time:** 10 minutes at tables, then 5 together. **Setup:** print one set per table and cut the cards apart. Swap two or three for real messages your group has received, with names, numbers, and links removed. Keep the answer key.
 
-**For the group:** sort the cards into *scam*, *real*, and *can't tell yet*. Name the pressure on each scam. Say how you'd check each *can't tell yet* safely.
-
-All links and numbers here are fake.
+**Task:** sort the cards into *scam*, *real*, and *can't tell yet*. Name the pressure on each scam, and say how you'd check each *can't tell yet*. All links and numbers here are fake.
 
 ## The cards
 
@@ -53,32 +51,28 @@ All links and numbers here are fake.
 
 | Card | Answer | Pressures | How to check |
 |---|---|---|---|
-| 1 | Scam | Hurry | USPS texts only people who asked for tracking updates, and its texts don't contain links. Use the tracking number from the seller, on the official site. |
-| 2 | Real (probably) | None | It sends you to the app or the card, not a link. Still, sign in your usual way, not from the email. |
-| 3 | Scam | Fear, hurry | Anyone who asks for a code you received is trying to sign in as you. Hang up and call the number on your card. |
+| 1 | Scam | Hurry | USPS texts only people who asked for tracking, with no links. Use the seller's tracking number on the official site. |
+| 2 | Real (probably) | None | It sends you to the app or the card, not a link. Still sign in your usual way. |
+| 3 | Scam | Fear, hurry | Anyone asking for a code you received is signing in as you. Hang up and call the number on your card. |
 | 4 | Scam (very likely) | Secrecy (a new number), soon hurry | Call your child's old number, or another family member, before replying. |
 | 5 | Scam | Fear, hurry | Real companies don't put phone numbers in pop-ups. Close the browser (force quit if needed) and restart. |
 | 6 | Scam | Hurry, odd payment (new account) | Call the supplier on the number you already have on file. Never change bank details from an email. |
-| 7 | Real | None | A code you asked for, with a warning not to share it. If you didn't ask for it, someone has your password, so change it. |
-| 8 | Scam | Hurry, odd payment (crypto) | Hacked friend accounts are common. Ask your friend another way, by calling them. |
-| 9 | Can't tell yet | Fear | It could be real or a phishing email. Don't click. Open the app or type the site's address yourself and check your security settings. |
+| 7 | Real | None | A code you asked for, with a warning. If you didn't ask, someone has your password, so change it. |
+| 8 | Scam | Hurry, odd payment (crypto) | Hacked friend accounts are common. Call your friend to ask. |
+| 9 | Can't tell yet | Fear | Could be real or phishing. Don't click. Open the app or type the site's address yourself and check your security settings. |
 | 10 | Scam | Fear, hurry, odd payment (gift cards) | Courts and police never take gift cards. Hang up and call the court's number from its official website. |
-| 11 | Scam | Hurry, secrecy, odd payment (gift cards) | Call or walk over to the CEO and ask, using a number you already had. Report the email. |
-| 12 | Real (probably) | None | It asks you to reply or call the office, with no link. If unsure, call the number you already have for the office. |
+| 11 | Scam | Hurry, secrecy, odd payment (gift cards) | Call or walk over to the CEO, using a number you already had. Report the email. |
+| 12 | Real (probably) | None | It asks you to reply or call the office, with no link. If unsure, call the number you already have. |
 
-## Talking points
+## Takeaway
 
-- The real messages mostly send you somewhere you already know: the app, the back of your card, your usual sign-in. The scams send you somewhere new: their link, their number, their payment method.
-- A real message can still look odd. When in doubt, check the same safe way every time.
-- Card 7 shows why codes matter: the code is the second key, and the real message warns you not to share it.
-
-More on each type is in the [field guide](../guide/index.md).
+Real messages mostly send you somewhere you already know: the app, the back of your card, your usual sign-in. Scams send you somewhere new: their link, their number, their payment method. When in doubt, check the same safe way every time. More on each type is in the [field guide](../guide/index.md).
 
 ## Sources
 
 - [Smishing: package tracking text scams](https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams), from the U.S. Postal Inspection Service: USPS texts only people who asked for tracking, and those texts contain no links.
-- [How to recognize and avoid phishing scams](https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams), from the FTC: warning signs and what to do after a click.
-- [How to spot, avoid, and report tech support scams](https://consumer.ftc.gov/articles/how-spot-avoid-and-report-tech-support-scams), from the FTC: pop-ups, calls, and remote access.
-- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.
-- [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC: no real business or agency asks for gift cards, and what to do if you paid with one.
-- [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC: government, bank, and business impostors.
+- [How to recognize and avoid phishing scams](https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams), from the FTC.
+- [How to spot, avoid, and report tech support scams](https://consumer.ftc.gov/articles/how-spot-avoid-and-report-tech-support-scams), from the FTC.
+- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI.
+- [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC: no real business or agency asks for gift cards.
+- [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC.

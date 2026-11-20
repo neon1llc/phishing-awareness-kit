@@ -5,7 +5,7 @@ description: "A wallet card of who to contact after a scam in the United States:
 
 # If you think you've been scammed
 
-**Act fast. A quick report gives the best chance of stopping the money.**
+**Act fast. The sooner you call, the better the chance of stopping the money.**
 
 1. **Call your bank or card company first**, using the number on the back of your card. Ask them to stop or reverse the payment.
 2. **Then use the right door for how you paid** (below).
@@ -24,7 +24,7 @@ description: "A wallet card of who to contact after a scam in the United States:
 | Cryptocurrency | The exchange or crypto ATM operator. Recovery is hard, so move fast. |
 | Cash sent by mail | U.S. Postal Inspection Service: **1-877-876-2455**. |
 
-Refunds are not guaranteed. The sooner you call, the better the chance.
+Refunds are not guaranteed.
 
 ## Where to report (United States)
 
@@ -39,23 +39,22 @@ Refunds are not guaranteed. The sooner you call, the better the chance.
 
 ## Protect your credit
 
-If personal details were shared, place a credit freeze with all three bureaus: **Equifax**, **Experian**, and **TransUnion**. It stops new credit being opened in your name. It's free to place and lift, and it doesn't affect your score.
+If personal details were shared, freeze your credit with **Equifax**, **Experian**, and **TransUnion**. It stops new credit being opened in your name. It's free and doesn't affect your score.
 
 ## People who can help
 
-- AARP Fraud Watch Network Helpline, free and toll-free: **877-908-3360**, weekdays 8am to 8pm Eastern time
-- Someone you trust: a family member, friend, or the person who ran this session.
+AARP Fraud Watch Network Helpline, free: **877-908-3360**, weekdays 8am to 8pm Eastern time. Or someone you trust.
 
 ## Sources
 
-- [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/), from the FTC: where to report a scam.
-- [IdentityTheft.gov](https://www.identitytheft.gov/), from the FTC: reporting identity theft and getting a recovery plan.
+- [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/), from the FTC.
+- [IdentityTheft.gov](https://www.identitytheft.gov/), from the FTC.
 - [Internet Crime Complaint Center](https://www.ic3.gov/), from the FBI: where to report online fraud, and the note that reports can help the FBI freeze stolen funds. The FBI's 2025 Internet Crime Report says to ask your bank for a recall right away and to file at ic3.gov whatever the amount.
-- [National Elder Fraud Hotline](https://ovc.ojp.gov/program/elder-fraud-abuse/national-elder-fraud-hotline), from the Justice Department's Office for Victims of Crime: the number and its hours.
+- [National Elder Fraud Hotline](https://ovc.ojp.gov/program/elder-fraud-abuse/national-elder-fraud-hotline), from the Justice Department's Office for Victims of Crime.
 - [How to recognize and report spam text messages](https://consumer.ftc.gov/articles/how-recognize-and-report-spam-text-messages), from the FTC: the source for forwarding scam texts to 7726.
-- [What to know about credit freezes and fraud alerts](https://consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts), from the FTC: freezes are free, don't affect your score, and can be placed for children under 16.
+- [What to know about credit freezes and fraud alerts](https://consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts), from the FTC: freezes are free and don't affect your score.
 - [What to do if you were scammed](https://consumer.ftc.gov/articles/what-do-if-you-were-scammed), from the FTC: who to contact for each way of paying, and the Postal Inspection Service number for cash sent by mail.
-- [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC: no real business or agency asks for gift cards, and what to do if you paid with one.
+- [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC: no real business or agency asks for gift cards.
 - [AARP Fraud Watch Network Helpline](https://www.aarp.org/money/scams-fraud/helpline/), from AARP: the free helpline's number and hours.
 
 *Numbers checked November 2026. Phishing Awareness Kit by neon1 (neon1.tech), CC BY-SA 4.0.*

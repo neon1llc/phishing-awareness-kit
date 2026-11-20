@@ -5,7 +5,7 @@ description: "An email from a supplier, contractor, or client, sometimes from th
 
 ## What it looks like
 
-"Please note we've changed banks. Use the attached details for this invoice and all future payments." It may come from a supplier's hacked email account, or from an address one letter off, often right when a payment is due. The same trick hits home buyers ("updated wiring instructions" for a closing) and payroll ("please send my direct deposit to my new account").
+"Please note we've changed banks. Use the attached details for this invoice and all future payments." It may come from a supplier's hacked email account, or from an address one letter off, often when a payment is due. The same trick hits home buyers ("updated wiring instructions" for a closing) and payroll ("please send my direct deposit to my new account").
 
 ## The tell
 
@@ -13,7 +13,7 @@ description: "An email from a supplier, contractor, or client, sometimes from th
 
 ## What to do
 
-Call the supplier on a number you already had on file, not one in the email, and confirm the change with someone you know. Make this a rule with no exceptions, including the boss and the biggest customer. For home purchases, call your title company or lawyer on a number from your original paperwork before wiring.
+Call the supplier on a number you already had on file, not one in the email. Make this a rule with no exceptions, including the boss and the biggest customer. For home purchases, call your title company or lawyer on a number from your original paperwork before wiring.
 
 ## If it already happened
 
@@ -23,5 +23,5 @@ Ready, Secure, Go has the full practice: [Never change payment details on the st
 
 ## Sources
 
-- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.
+- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI.
 - [Internet Crime Complaint Center](https://www.ic3.gov/), from the FBI: where to report online fraud, and the note that fast reports sometimes let the FBI freeze stolen funds.

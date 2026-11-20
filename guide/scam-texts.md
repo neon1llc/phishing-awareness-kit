@@ -15,15 +15,15 @@ description: "Text messages about a held package, an unpaid toll, or a problem w
 - A link you didn't ask for, to a site you didn't choose.
 - A small amount of money. Scammers want your card details, not the $4.
 - An odd sender: a long number, an email address, or a number from another country.
-- The "wrong number" text that turns into a friendly chat is often the start of a [romance or investment scam](romance-investment.md).
+- A "wrong number" text that turns into a friendly chat is often the start of a [romance or investment scam](romance-investment.md).
 
 ## What to do
 
-Don't tap the link or reply. USPS texts only people who signed up for tracking, and those texts don't contain links. If you're expecting a package, check tracking in the seller's app. For tolls, open your toll account the way you normally do. Forward scam texts to **7726** (it spells SPAM) and delete them.
+Don't tap the link or reply. USPS texts only people who signed up for tracking, and those texts don't contain links. If you're expecting a package, check tracking in the seller's app. For tolls, open your toll account the usual way. Forward scam texts to **7726** (it spells SPAM) and delete them.
 
 ## If it already happened
 
-If you entered card details, call your card company using the number on the card. If you entered a password, change it and turn on two-step sign-in.
+If you entered card details, call your card company on the number on the card. If you entered a password, change it and turn on two-step sign-in.
 
 ## Sources
 

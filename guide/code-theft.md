@@ -5,9 +5,9 @@ description: "A caller claiming to be your bank's fraud team, or a tech company,
 
 ## What it looks like
 
-"This is the fraud department at your bank. We've blocked a suspicious charge. To verify you, I'm sending a code to your phone. Please read it back." The caller ID may even show the bank's real name or number, because caller ID is easy to fake.
+"This is the fraud department at your bank. We've blocked a suspicious charge. To verify you, I'm sending a code to your phone. Please read it back." Caller ID may show the bank's real name or number, because caller ID is easy to fake.
 
-Variations: "This is Apple support, someone's trying to get into your iCloud," or "This is your mobile carrier, we need to confirm a SIM change."
+Also: "Apple support" about your iCloud, or "your carrier" about a SIM change.
 
 ## The tell
 
@@ -19,9 +19,9 @@ Hang up. Call the number on the back of your card, or open the company's officia
 
 ## If it already happened
 
-Call the bank or company right away using a number you looked up. Change the account's password and check its recovery email and phone haven't been changed. If it was your phone carrier, ask them to add a PIN or port-out lock to your account.
+Call the bank or company right away on a number you looked up. Change the account's password and check its recovery email and phone haven't been changed. If it was your phone carrier, ask them to add a PIN or port-out lock.
 
 ## Sources
 
-- [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC: government, bank, and business impostors.
-- [How to recognize and avoid phishing scams](https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams), from the FTC: warning signs and what to do after a click.
+- [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC.
+- [How to recognize and avoid phishing scams](https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams), from the FTC.

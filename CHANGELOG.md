@@ -5,7 +5,7 @@ Phishing Awareness Kit releases use `v0.MINOR.PATCH` until the first complete re
 ## v0.1.8 - 2026-11-20
 
 ### Changed
-- Tighter wording across the README, session pages, exercises, handouts, and audience pages. Repeated source lines are shortened.
+- Tighter wording across the README, session pages, exercises, handouts, audience pages, and field guide. The facilitator script repeats less of the slides, and source notes are shorter where the link title already says it.
 
 ## v0.1.7 - 2026-11-19
 

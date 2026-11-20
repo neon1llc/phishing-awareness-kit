@@ -3,7 +3,7 @@ title: Audiences
 description: "How to adapt the one-hour phishing awareness session for families and seniors, workplace teams, and students."
 ---
 
-The core stays the same: the four pressures, the pause, two-step sign-in, and who to tell. Change the scams, examples, and pace.
+The core stays the same. Change the scams, examples, and pace.
 
 | Audience | Page | Lead with |
 |---|---|---|

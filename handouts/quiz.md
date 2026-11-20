@@ -3,7 +3,7 @@ title: Before-and-after quiz
 description: "Six quick questions to give before and after a session, to see what changed. No names needed."
 ---
 
-Give the same quiz at the start and end. Collect papers without names and compare how many got each question right. Nobody is graded.
+Give the same quiz at the start and end, without names. Compare how many got each question right. Nobody is graded.
 
 **1. Which of these is a sign of a scam? Circle all that apply.**
 a) Being asked to act within the hour
@@ -26,7 +26,7 @@ a) Makes your password longer
 b) Requires something you have, such as your phone, as well as your password
 c) Signs you in twice as fast
 
-**5. Is two-step sign-in turned on for your main email? (Yes / No / Not sure)**
+**5. Is two-step sign-in on for your main email? (Yes / No / Not sure)**
 
 **6. If you lost money to a scam, who would you call first?**
 a) The number in the scammer's message
@@ -38,4 +38,4 @@ c) Nobody, since it's too late
 ## Sources
 
 - [Smishing: package tracking text scams](https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams), from the U.S. Postal Inspection Service: USPS texts only people who asked for tracking, and those texts contain no links.
-- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: report phishing, use strong passwords, turn on multifactor authentication, and update software.
+- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA.

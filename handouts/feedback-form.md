@@ -22,8 +22,3 @@ ______________________________________________
 **5. What other topic would you like help with?**
 ☐ Passwords and password managers ☐ Protecting older relatives ☐ Kids and phones ☐ Home Wi-Fi ☐ Backups and photos ☐ Other: ____________
 
-**6. Would you recommend this session to a friend or coworker?** Yes ☐ No ☐
-
-Anything else?
-
-______________________________________________

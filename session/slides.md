@@ -195,11 +195,11 @@ Material: Phishing Awareness Kit by neon1 (neon1.tech), CC BY-SA 4.0
 
 ## Sources
 
-- [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC: no real business or agency asks for gift cards, and what to do if you paid with one.
-- [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC: government, bank, and business impostors.
-- [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC: grandparent and family emergency scams and how to check.
-- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI: invoice, bank change, and real estate wire fraud, and what to do.
-- [What to know about romance scams](https://consumer.ftc.gov/articles/what-know-about-romance-scams), from the FTC: how they start and the turn to money.
+- [Avoiding and reporting gift card scams](https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams), from the FTC: no real business or agency asks for gift cards.
+- [How to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams), from the FTC.
+- [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC.
+- [Business email compromise](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise), from the FBI.
+- [What to know about romance scams](https://consumer.ftc.gov/articles/what-know-about-romance-scams), from the FTC.
 - [How to recognize and report spam text messages](https://consumer.ftc.gov/articles/how-recognize-and-report-spam-text-messages), from the FTC: the source for forwarding scam texts to 7726.
-- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: report phishing, use strong passwords, turn on multifactor authentication, and update software.
+- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA.
 - [Marp](https://marp.app), the open-source Markdown slide tool the deck is written for.

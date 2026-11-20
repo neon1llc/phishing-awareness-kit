@@ -5,9 +5,9 @@ description: "Fake buyers and sellers on marketplace apps: overpayments, fake pa
 
 ## What it looks like
 
-**As a seller:** a buyer "accidentally" pays too much and asks you to refund the difference, then the original payment bounces. Or they send an email that looks like it's from a payment service saying the money is waiting. Or they ask you to read a code "to prove you're real," which is really setting up an account in your name.
+**As a seller:** a buyer "accidentally" pays too much and asks you to refund the difference, then the original payment bounces. Or an email that looks like it's from a payment service says the money is waiting. Or they ask you to read a code "to prove you're real," which really sets up an account in your name.
 
-**As a buyer:** a great deal, a seller who wants payment by a payment app's "friends and family" option or a gift card, and an item that never comes. Rental listings work the same way: a deposit for an apartment that isn't theirs.
+**As a buyer:** a great deal, a seller who wants a payment app's "friends and family" option or a gift card, and an item that never comes. Rentals work the same way: a deposit for an apartment that isn't theirs.
 
 ## The tell
 

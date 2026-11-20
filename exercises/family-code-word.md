@@ -3,22 +3,18 @@ title: Family code word
 description: "A five-minute activity for choosing a family code word that settles any emergency call in seconds, even one with a cloned voice."
 ---
 
-**Time:** 5 minutes in the session, or homework. **Goal:** each person plans to choose a code word with their family, in person, this week.
-
-## Why it works
-
-Emergency scams depend on panic and a believable voice. Ask "What's our word?" A scammer won't know it, however real the voice sounds.
+**Time:** 5 minutes, or homework. **Goal:** each person plans to choose a code word with their family, in person, this week. Emergency scams depend on panic and a believable voice, and a scammer can't answer "What's our word?"
 
 ## Choosing a good word
 
 - **Easy to remember under stress.** A silly phrase or a family joke.
-- **Not findable online.** Nothing from social media, such as a pet's name, a street, or a school.
+- **Not findable online.** No pet names, streets, or schools from social media.
 - **Shared in person**, or on a call you started. Never by text, email, or social media.
 - **Known to everyone**, including grandparents and kids old enough to answer the phone.
 
-## The rule that goes with it
+## The rule
 
-If someone calls in an emergency and asks for money, help, or secrecy, ask for the word. If they can't give it, hang up and call the person directly on the number you already have. If they do give it but something still feels wrong, hang up and call back anyway.
+If someone calls in an emergency and asks for money, help, or secrecy, ask for the word. If they can't give it, hang up and call the person on the number you already have. If they give it but something still feels wrong, call back anyway.
 
 ## In the session
 
@@ -28,5 +24,5 @@ Ready, Secure, Go has a full card: [Agree on a family code word for emergencies]
 
 ## Sources
 
-- [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC: grandparent and family emergency scams and how to check.
+- [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC.
 - [Criminals Use Generative Artificial Intelligence to Facilitate Financial Fraud](https://www.ic3.gov/PSA/2024/PSA241203), from the FBI: create a secret word or phrase with your family to verify identity, and limit public voice and image content.
