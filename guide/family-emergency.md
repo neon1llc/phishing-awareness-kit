@@ -5,9 +5,7 @@ description: "A call from a 'grandchild' or other loved one in an accident or in
 
 ## What it looks like
 
-A panicked voice: "Grandma, it's me. I'm in trouble." An accident, an arrest, a hospital abroad. Then a "lawyer" or "officer" explains how to send bail money, sometimes by a courier who comes to your door.
-
-Scammers can copy a voice from a few seconds of online video, so it may sound exactly like your grandchild.
+A panicked voice: "Grandma, it's me. I'm in trouble." An accident, an arrest, a hospital abroad. Then a "lawyer" or "officer" explains how to send bail money, sometimes to a courier at your door. Voices can be copied from a few seconds of online video, so it may sound exactly like your grandchild.
 
 ## The tell
 
@@ -21,10 +19,10 @@ Hang up and call your grandchild on the number you already have, or call their p
 
 ## If it already happened
 
-Call your bank immediately. If you gave cash to a courier, call local police right away. Report it at **ReportFraud.ftc.gov**. If the person scammed is an older adult, call the National Elder Fraud Hotline at **1-833-FRAUD-11** (1-833-372-8311).
+If you gave cash to a courier, call local police right away. If the person scammed is an older adult, call the National Elder Fraud Hotline at **1-833-FRAUD-11** (1-833-372-8311).
 
 ## Sources
 
 - [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC.
-- [Don't open your door to grandparent scams](https://consumer.ftc.gov/consumer-alerts/2021/04/dont-open-your-door-grandparent-scams), from the FTC: scammers send someone to the door to collect cash for "bail."
+- [Don't open your door to grandparent scams](https://consumer.ftc.gov/consumer-alerts/2021/04/dont-open-your-door-grandparent-scams), from the FTC.
 - [National Elder Fraud Hotline](https://ovc.ojp.gov/program/elder-fraud-abuse/national-elder-fraud-hotline), from the Justice Department's Office for Victims of Crime.
