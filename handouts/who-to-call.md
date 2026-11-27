@@ -43,6 +43,6 @@ If personal details were shared, [freeze your credit](https://consumer.ftc.gov/a
 
 ## People who can help
 
-[AARP Fraud Watch Network Helpline](https://www.aarp.org/money/scams-fraud/helpline.html), free: **877-908-3360**, weekdays 8am to 8pm Eastern time. Or someone you trust.
+[AARP Fraud Watch Network Helpline](https://www.aarp.org/money/scams-fraud/helpline/), free: **877-908-3360**, weekdays 8am to 8pm Eastern time. Or someone you trust.
 
 *Numbers checked November 2026. Phishing Awareness Kit by neon1 (neon1.tech), CC BY-SA 4.0.*
